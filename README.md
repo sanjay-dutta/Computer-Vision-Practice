@@ -1,1 +1,2 @@
 # Computer-Vision-Practice
+Welcome to the repository for Computer Vision Practice Projects. This collection is designed for those interested in exploring and learning about various aspects of computer vision using Python and OpenCV. Whether you are a beginner looking to get started with computer vision or an intermediate learner aiming to sharpen your skills, this repository offers a range of projects to assist you on your journey.
