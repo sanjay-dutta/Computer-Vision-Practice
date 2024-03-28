@@ -1,2 +1,2 @@
-# Smile Detection
-The Smile Detection Project aimed at identifying smiles real-time video feeds using facial landmark detector to accurately determine the presence of a smile.
+# Face Detection
+The Face Detection project aims to identify and locate human faces within a digital image utilizing haar Cascades.
