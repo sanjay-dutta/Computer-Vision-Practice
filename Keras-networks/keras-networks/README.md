@@ -1,1 +1,2 @@
-
+# ImageNet: VGGNet, ResNet, Inception, and Xception with Keras
+The script is designed to classify an image by identifying the main subject in the image, leveraging pre-trained deep learning models available through TensorFlow's Keras library. It accepts an image file and a model name as input parameters. The script supports various state-of-the-art image classification models like VGG16, VGG19, ResNet50, InceptionV3, and Xception, which have been trained on the ImageNet dataset, a large dataset featuring a wide range of categories.
