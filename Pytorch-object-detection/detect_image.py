@@ -1,5 +1,5 @@
 # USAGE
-# python detect_image.py --model frcnn-resnet --image images/example_01.jpg --labels coco_classes.pickle
+# python detect_image.py --model frcnn-resnet --image images/example_02.jpg --labels coco_classes.pickle
 
 # import the necessary packages
 from torchvision.models import detection
