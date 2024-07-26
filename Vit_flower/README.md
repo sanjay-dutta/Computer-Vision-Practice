@@ -1,4 +1,4 @@
-# lower Image Classification using Vision Transformer (ViT)
+# Flower Image Classification using Vision Transformer (ViT)
 
 ### Introduction
 
