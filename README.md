@@ -6,4 +6,5 @@ The repository will continue growing with new projects and updates — bookmark 
 # You can find a more detailed overview of the repository in my Medium article
 https://medium.com/@sanjay_dutta/your-complete-computer-vision-learning-journey-40-projects-from-fundamentals-to-cutting-edge-ai-a318984cfdee
 
-make sure to follow me on Medium for more updates and insights.
+# Make sure to follow me on Medium for more updates and insights:
+https://medium.com/@sanjay_dutta
